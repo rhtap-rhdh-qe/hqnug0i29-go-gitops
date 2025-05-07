@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: hqnug0i29-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/hqnug0i29-go-gitops
